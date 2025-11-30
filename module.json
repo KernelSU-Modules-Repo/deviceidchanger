@@ -1,7 +1,7 @@
 {
     "metamodule": false,
     "summary": "A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk.",
-    "sourceUrl": "https://github.com/KernelSU-Modules-Repo/deviceidchanger",
+    "sourceUrl": "https://github.com/sidex15/deviceidchanger",
     "additionalAuthors": [
         {
             "type": "add",
@@ -9,4 +9,5 @@
             "link": "https://github.com/sidex15/deviceidchanger"
         }
     ]
+
 }
